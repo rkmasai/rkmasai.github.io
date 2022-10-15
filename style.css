@@ -1,0 +1,88 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&display=swap');
+
+
+.sidebar{
+
+    width: 433px;
+    background-color: rgb(223, 218, 218);
+    height: 100vh;
+    font-family: sans-serif;
+
+
+}
+.sidebar nav{
+
+    padding: 72px;
+}
+.sidebar nav li{
+    list-style: none;
+    font-size: 20px;
+    padding: 30px;
+
+}
+
+
+.sidebar nav li a{
+    text-decoration: none;
+    color: rgb(15, 13, 13);
+}
+.main{
+    /* background-color: yellow; */
+    width: 90vw;
+}
+.container{
+    display: flex;
+}
+.infoContainer{
+    background-color: red;
+    margin: auto;
+    height: 58vh;
+    width: 80vw;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+
+.devPic img{
+    width: 450px;
+    height: 58vh;
+}
+
+.devInfo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    /* margin-top: -10%; */
+}
+
+.hello{
+    font-size: 65px;
+    
+
+}
+.name{
+    font-size: 50px;
+    font-weight: bold;
+}
+.about{
+    font-size: 40px;
+}
+
+.buttons button{
+    padding: 9px;
+    border-radius: 22px;
+    color: white;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 21px;
+    margin: 0 3px;
+    cursor: pointer;
+    border: 0ch;
+}
