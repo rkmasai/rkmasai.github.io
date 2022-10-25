@@ -17,14 +17,14 @@
 
 ## Technologies used 🛠️
 
-Java
-HiberNate
-STS
-SprintBoot
-MySql
-JavaScript
-CSS
-HTML
+Java \
+HiberNate\
+STS \
+SprintBoot \
+MySql \
+JavaScript \
+CSS \
+HTML 
 
 
 ## Authors
