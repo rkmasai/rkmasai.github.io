@@ -5,7 +5,7 @@
 
 ## Features
 
-⚡️ I 
+⚡️ I \
 ⚡️ Well organized documentation\
 ⚡️ One Page Layout\
 ⚡️ Custom SCSS\
