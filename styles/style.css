@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
 
+
+  
+
+
+
 /*--------------
  Global CSS
 ----------------*/
@@ -62,7 +67,6 @@ body {
     line-height: 1.5;
     max-width: 1700px;
     margin: 0 auto;
-    /*  */
     animation-name: background-animation;
      animation-duration: 10s;
 }
