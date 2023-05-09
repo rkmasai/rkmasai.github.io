@@ -914,6 +914,10 @@ body.dark #github-calender {
         display: block;
         width: 100%;
     }
+    .streak-stats{
+        display: grid;
+  place-items: center;
+    }
 }
 @media (max-width: 575px) {
     .cube {
