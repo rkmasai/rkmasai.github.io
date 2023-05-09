@@ -783,6 +783,12 @@ body.dark #github-calender {
     line-height: 40px;
 }
 
+.streak-stats{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* Nav logo */
 
 .cube > div > span {
@@ -890,6 +896,11 @@ body.dark #github-calender {
     .footer-col {
         margin-bottom: 30px;
     }
+
+    .streak-stats{
+        display: grid;
+  place-items: center;
+    }
 }
 @media (max-width: 767px) {
     .contact-form {
@@ -926,6 +937,10 @@ body.dark #github-calender {
     .project-item .project-info .links {
         flex-direction: column;
         gap: 5px;
+    }
+    .streak-stats{
+        display: grid;
+  place-items: center;
     }
 }
 
