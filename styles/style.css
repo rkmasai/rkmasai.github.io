@@ -17,6 +17,11 @@
     color: #fff;
     padding: 10px;
   }
+
+  .streak{
+    display: grid;
+  place-items: center;
+  }
   
   nav ul {
     list-style: none;
